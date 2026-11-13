@@ -29,4 +29,4 @@ python main.py
 | Modularización | Clases en `modelos.py`; `main.py` solo importa y prueba |
 
 ## Diagrama UML
-![Diagrama UML](assets/diagrama_uml.png)
+![Diagrama UML](assets/diagrama_uml%20%282%29.png)
